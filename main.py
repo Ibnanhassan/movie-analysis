@@ -209,3 +209,4 @@ top150 = (
     .head(5)
 )
 st.write(top150)
+st.write("As you can see the only thing affected by filtering for movies with more ratings is 5th place with shawshank redemption having more high ratings")
